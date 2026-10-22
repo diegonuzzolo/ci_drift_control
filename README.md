@@ -2,8 +2,6 @@
 
 **Infrastructure Drift Control** è un tool per il controllo e la riconciliazione del drift infrastrutturale tramite OpenTofu.
 
-Il programma viene distribuito come **binario eseguibile per ambiente Linux** attraverso le GitHub Releases.
-
 ## Integrazione GitLab CI/CD
 
 Il tool può essere integrato in una pipeline GitLab CI/CD attraverso uno stage dedicato alla riconciliazione dell'infrastruttura.
